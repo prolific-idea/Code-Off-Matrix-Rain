@@ -3,6 +3,8 @@
 # Code Off - Matrix Rain
 This code off challenges all attendees of the 2016 [I Code Java Conference](http://j-sa.co) to use their creativity to modify the matrix! This repository contains boilerplate code for rendering matrix rain. Modify the code and add your own twists to make the visualiser your own. Change colours, the text displayed, add images, or even pull some tweets into your app. It's up to you!
 
+Here's what the boilerplate code looks like:
+
 ![Matrix](https://entelectsourceprodblob.blob.core.windows.net/assets/code-off-javasa-2016/jco1.png)
 
 ## Prize
