@@ -22,6 +22,8 @@ Please make sure your code doesn't require heavy external dependencies to build 
 
 Entries will close at 15:00 on Friday 22 July 2016.
 
+Note: Employees of Entelect are not eligable to win the grand prize, however, there will be random other prizes up for grabs.
+
 ## Inspiration
 To get you going, have a look at these matrix rain variations. Try applying your own ideas and creativity to make your visualiser the best.
 
